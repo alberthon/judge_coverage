@@ -84,6 +84,6 @@ def main(domain):
 
 
 if __name__  ==  '__main__' :
-    main("m.360buyimg.com")
+    main("www.baidu.com")
 
 
